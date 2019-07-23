@@ -1,1 +1,13 @@
+ion-item {
+  --padding-start: 0px;
+  --inner-padding-start: 8px;
+  --inner-padding-end: 8px;
 
+
+}
+
+ion-input {
+  --padding-start: 8px;
+  border: 1px solid gray;
+  background-color: var(--ion-color-light);
+}
